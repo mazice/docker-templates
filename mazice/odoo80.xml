@@ -10,7 +10,7 @@
   <Description></Description>
   <Registry></Registry>
   <GitHub>https://github.com/mazice/dockerapp-odoo</GitHub>
-  <Repository>mazice/dockerapp-odoo</Repository>
+  <Repository>odoo/docker/8.0</Repository>
   <Support></Support>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
