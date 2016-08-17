@@ -9,8 +9,8 @@
   <Overview></Overview>
   <Description></Description>
   <Registry></Registry>
-  <GitHub>https://github.com/mazice/docker-templates/apps/odoo</GitHub>
-  <Repository>mazice/docker-templates/apps/odoo</Repository>
+  <GitHub>https://github.com/mazice/docker-templates/tree/master/apps/odoo80</GitHub>
+  <Repository>odoo/odoo80</Repository>
   <Support></Support>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
