@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Date>2016-08-17</Date>
+  <Beta>False</Beta>
+  <Category></Category>
+  <Name>odoo 8.0</Name>
+  <Project></Project>
+  <Changes></Changes>
+  <Overview></Overview>
+  <Description></Description>
+  <Registry></Registry>
+  <GitHub>https://github.com/mazice/docker-templates/apps/odoo</GitHub>
+  <Repository>mazice/docker-templates/apps/odoo</Repository>
+  <Support></Support>
+  <BindTime>true</BindTime>
+  <Privileged>true</Privileged>
+  <Networking>
+    <Mode>host</Mode>
+    <Publish/>
+  </Networking>
+  <Environment/>
+  <Data>
+    <Volume>
+      <HostDir>/mnt/user/appdata/odoo80</HostDir>
+      <ContainerDir>/config</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <WebUI>http://[IP]:[PORT:8989]/web/index.html</WebUI>
+  <Banner></Banner>
+  <Icon></Icon>
+</Containers>
